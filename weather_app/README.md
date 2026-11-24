@@ -148,4 +148,4 @@ npm run preview
 * Improved weather animations
 * Weather forecast charts
 
-
+- Aditya Gahlan
