@@ -68,7 +68,7 @@ Make sure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/vidhan47/task_intern.git
+git clone https://github.com/adityagahlan-lab/weatherapp
 ```
 
 ### 2. Navigate to the Weather App
